@@ -1,0 +1,51 @@
+review_id,category,product,star_rating,review_text,vader_compound,vader_positive,vader_negative,vader_neutral,vader_sentiment,textblob_polarity,textblob_subjectivity,dominant_emotion
+1,books,Mystery Thriller,5,"Absolutely gripping from page one! Could not put it down, finished in two days with pure joy.",0.6239,0.204,0.0,0.796,Positive,0.3709,0.4972,joy
+2,books,Cookbook Collection,4,Great recipes and beautiful photos. A few dishes were disappointing but overall very helpful.,0.7929,0.43,0.099,0.471,Positive,0.175,0.475,neutral
+3,books,Self-Help Guide,2,Repetitive advice and boring chapters. I regret buying this waste of money.,-0.836,0.0,0.553,0.447,Negative,-0.4833,0.4167,anger
+4,books,Fantasy Epic,5,Magical world-building and lovable characters. This book made me laugh and cry with happiness.,0.8442,0.461,0.128,0.412,Positive,0.5,0.45,sadness
+5,books,History Textbook,3,"Informative but dry. Decent reference material, nothing exciting here.",-0.5334,0.0,0.301,0.699,Negative,0.1333,0.6889,sadness
+6,books,Romance Novel,1,Terrible plot and awful dialogue. Angry that I spent time on this disaster.,-0.9357,0.0,0.613,0.387,Negative,-0.65,0.775,anger
+7,books,Science Fiction,5,Mind-blowing twists and brilliant ideas. Surprised by how good the ending was!,0.8356,0.497,0.0,0.503,Positive,0.625,0.8333,joy
+8,books,Poetry Anthology,4,Touching and thoughtful poems. Some feel sad but beautifully written.,0.7003,0.431,0.129,0.44,Positive,0.3125,0.75,sadness
+9,books,Biography,3,Okay read. Learned a few things but pacing was slow in the middle.,0.1154,0.108,0.0,0.892,Positive,-0.0,0.25,sadness
+10,books,Children's Storybook,5,My kids adore this! Fun illustrations and delightful stories every night.,0.9112,0.591,0.0,0.409,Positive,0.65,0.6,neutral
+11,books,Business Strategy,2,Outdated examples and vague tips. Fear this won't help my career at all.,-0.7057,0.0,0.407,0.593,Negative,-0.45,0.5667,fear
+12,books,Graphic Novel,4,Stunning artwork and solid story. Really enjoyed the action scenes.,0.7778,0.527,0.0,0.473,Positive,0.275,0.475,neutral
+13,books,Travel Guide,3,Useful maps but missing recent spots. Neutral experience overall.,-0.2144,0.166,0.238,0.596,Negative,0.025,0.075,neutral
+14,books,Horror Collection,5,Genuinely scary! I was afraid to read at night but loved every moment.,0.6749,0.301,0.112,0.587,Positive,-0.175,0.9,fear
+15,books,Classic Literature,4,Timeless prose and deep themes. Happy to finally read this masterpiece.,0.8616,0.488,0.0,0.512,Positive,0.2667,0.8,joy
+16,books,Study Guide,1,Full of errors and confusing explanations. Furious about this purchase.,-0.7906,0.0,0.533,0.467,Negative,0.025,0.475,anger
+17,books,Art Book,5,Gorgeous prints and inspiring commentary. Pure joy for any art lover.,0.9371,0.673,0.0,0.327,Positive,0.5536,0.65,joy
+18,electronics,Wireless Earbuds,5,Crystal clear sound and comfortable fit. Best earbuds I have ever owned!,0.9168,0.617,0.0,0.383,Positive,0.46,0.4567,joy
+19,electronics,Budget Smartphone,2,Slow performance and terrible battery. Disappointed and annoyed daily.,-0.8316,0.0,0.595,0.405,Negative,-0.49,0.59,anger
+20,electronics,4K Monitor,4,"Sharp display and easy setup. Great for work, minor backlight bleed.",0.7906,0.438,0.0,0.562,Positive,0.2646,0.6333,neutral
+21,electronics,Gaming Laptop,5,Runs every game smoothly! Thrilled with the speed and RGB keyboard.,0.4926,0.242,0.0,0.758,Positive,0.1,0.55,joy
+22,electronics,Bluetooth Speaker,3,"Decent bass for the price. Nothing special, acceptable for parties.",-0.1331,0.194,0.303,0.503,Negative,0.1246,0.5794,neutral
+23,electronics,Smart Watch,4,Accurate fitness tracking and sleek design. Happy with daily use.,0.7003,0.42,0.0,0.58,Positive,0.4,0.5444,joy
+24,electronics,USB-C Hub,1,Stopped working after a week. Angry about the cheap build quality.,-0.6369,0.0,0.366,0.634,Negative,-0.05,0.85,anger
+25,electronics,Mechanical Keyboard,5,Satisfying clicks and premium feel. Typing is a joy on this board.,0.7783,0.405,0.0,0.595,Positive,0.65,0.6,joy
+26,electronics,Webcam HD,2,Grainy video and poor low-light performance. Sad about video calls.,-0.7351,0.0,0.437,0.563,Negative,-0.45,0.8,sadness
+27,electronics,Tablet 10-inch,4,Bright screen and long battery. Surprised how good it is for reading.,0.7717,0.461,0.0,0.539,Positive,0.3625,0.675,surprise
+28,electronics,Noise Cancelling Headphones,5,Blocks out everything! Peaceful flights and happy commuting.,0.7424,0.51,0.135,0.355,Positive,0.525,0.75,joy
+29,electronics,Smart Thermostat,4,"Saved money on heating bills. Easy app, slight fear of setup at first.",0.4201,0.306,0.156,0.537,Positive,0.1722,0.4444,fear
+30,electronics,Drone Mini,5,Amazing aerial shots and stable flight. Delighted with every flight!,0.8622,0.578,0.0,0.422,Positive,0.7375,0.8,surprise
+31,electronics,Router Wi-Fi 6,2,Frequent drops and confusing interface. Frustrated with connectivity.,-0.6486,0.0,0.469,0.531,Negative,-0.3,0.3,anger
+32,electronics,Fitness Tracker Band,4,"Lightweight and accurate steps. Good value, comfortable strap.",0.8225,0.632,0.0,0.368,Positive,0.5,0.6778,neutral
+33,electronics,External SSD 1TB,5,Blazing fast transfers! Ecstatic about backup speeds.,0.5562,0.374,0.0,0.626,Positive,0.25,0.6,joy
+34,electronics,Action Camera,1,Footage was shaky and audio terrible. Worst purchase this year.,-0.8442,0.0,0.565,0.435,Negative,-0.7778,0.8333,anger
+35,food,Organic Coffee Beans,5,Rich aroma and smooth taste every morning. Pure joy in a cup!,0.8268,0.435,0.0,0.565,Positive,0.4973,0.4875,joy
+36,food,Protein Bar Variety,3,"Some flavors good, others chalky. Okay snack, nothing amazing.",0.1847,0.346,0.221,0.433,Positive,0.6,0.6667,surprise
+37,food,Hot Sauce Gift Set,4,Spicy and flavorful! Surprised by the smoky chipotle one.,0.2942,0.215,0.0,0.785,Positive,0.1,0.9,surprise
+38,food,Frozen Pizza Pack,2,Soggy crust and bland cheese. Disappointed with every slice.,-0.4767,0.0,0.279,0.721,Negative,-0.4583,0.7917,sadness
+39,food,Dark Chocolate Box,5,Luxurious and delicious. Happy to gift these to friends.,0.9246,0.728,0.0,0.272,Positive,0.9,1.0,joy
+40,food,Instant Ramen Bulk,4,Quick and tasty for late nights. Great comfort food.,0.765,0.485,0.0,0.515,Positive,0.2778,0.6167,neutral
+41,food,Almond Butter Jar,3,Creamy but separates quickly. Neutral on repurchasing.,0.0,0.0,0.0,1.0,Neutral,0.3333,0.5,neutral
+42,food,Green Tea Matcha,5,Vibrant color and calming ritual. Delighted with the quality.,0.8555,0.61,0.0,0.39,Positive,0.4333,0.5167,neutral
+43,food,Beef Jerky Sampler,2,Too salty and tough. Angry about the small portions.,-0.5859,0.0,0.407,0.593,Negative,-0.3796,0.7444,anger
+44,food,Granola Cereal,4,Crunchy clusters and real fruit. Enjoy breakfast again.,0.4939,0.314,0.0,0.686,Positive,0.3,0.4,joy
+45,food,Olive Oil Extra Virgin,5,Fruity and fresh on salads. Thrilled with this kitchen staple.,0.6369,0.394,0.0,0.606,Positive,0.45,0.6,joy
+46,food,Meal Kit Delivery,1,Arrived warm and ingredients wilted. Furious about wasted money.,-0.7184,0.128,0.466,0.405,Negative,0.2,0.3,anger
+47,food,Sparkling Water Case,3,"Refreshing but plain. Fine for hydration, no excitement.",-0.3054,0.189,0.296,0.515,Negative,0.2341,0.619,neutral
+48,food,Honey Raw Organic,5,Sweet and floral flavor. Joy spreading it on warm toast.,0.8271,0.554,0.0,0.446,Positive,0.5833,0.4833,joy
+49,food,Vegan Cheese Block,2,Strange aftertaste and won't melt. Sad attempt at cheese.,0.1911,0.225,0.159,0.617,Positive,-0.275,0.575,sadness
+50,food,Sourdough Bread Mix,5,Perfect crust and tangy flavor! Ecstatic home baker here.,0.807,0.51,0.0,0.49,Positive,1.0,1.0,joy

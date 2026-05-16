@@ -1,0 +1,29 @@
+SENTIMENT ANALYSIS SUMMARY
+========================================
+Total reviews analyzed: 50
+Books in catalog (reference): 1000
+
+VADER sentiment distribution:
+  Positive: 33
+  Negative: 16
+  Neutral: 1
+
+Rating vs sentiment correlation: 0.925
+Most common emotion: joy (16 reviews)
+Average TextBlob polarity: 0.189
+Average TextBlob subjectivity: 0.611
+
+Average VADER compound score by star rating:
+  1 stars: -0.785
+  2 stars: -0.579
+  3 stars: -0.127
+  4 stars: 0.683
+  5 stars: 0.781
+
+Category breakdown:
+  books: 17 reviews, 65% positive
+  electronics: 17 reviews, 65% positive
+  food: 16 reviews, 69% positive
+
+Key insight: Higher star ratings generally align with more positive
+VADER compound scores, confirming review text matches assigned ratings.
